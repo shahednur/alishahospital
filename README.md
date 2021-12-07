@@ -1,2 +1,2 @@
-# alishahospital
-Alisha is a hospital management system developed with Laravel, Vuejs with SPA methodology
+# Laravel elearning platform 
+elearning platform developed with Laravel, Vuejs with SPA methodology
